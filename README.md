@@ -1,6 +1,4 @@
-# FOSSEE Python Task 2 — AI Python Debugging Prompt
-
-This repository contains my submission for the FOSSEE Python Task 2.
+# AI Python Debugging Prompt
 
 - **PROMPT.md**: The single Markdown prompt that instructs the AI what to do as a Python debugging teacher.  
 - **README.md** (this file): Design choices, reasoning answers, and setup instructions.  
